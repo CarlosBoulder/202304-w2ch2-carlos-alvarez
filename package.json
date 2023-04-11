@@ -4,7 +4,8 @@
   "description": "",
   "main": "app/index.js",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
